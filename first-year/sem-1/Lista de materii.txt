@@ -1,0 +1,6 @@
+PC - programarea calculatoarelor
+LSD - logica si structuri discrete
+AM - analiza matematica
+AG - algebra si geometrie
+F - fizica
+ET - electrotehnica
